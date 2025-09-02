@@ -247,7 +247,7 @@
 /* Shorts options */
 "Shorts" = "Shorts";
 "PlaybackMode" = "Acción al finalizar la reproducción";
-"Loop" = "Bucle";
+"Loop" = "Loop";
 "ScrollToNext" = "Deslizar al siguiente";
 "Stop" = "Detener";
 "AutoSkipShorts" = "Salto automático de Shorts";
@@ -336,21 +336,21 @@
 /* Interface options */
 "Interface" = "Interface";
 "OledTheme" = "Tema Oled";
-"OledThemeDesc" = "Convierte todos los colores oscuros en negro";
+"OledThemeDesc" = "Transforma todas as cores escuras em preto Oled";
 "OledKeyboard" = "Teclado Oled";
-"OledKeyboardDesc" = "Aplica el tema negro oled al teclado oscuro";
-"NoSearchHistory" = "Ocultar el historial de búsqueda";
-"NoSearchHistoryDesc" = "Oculta visualmente el historial de búsqueda y las sugerencias. Nota: El historial de búsqueda seguirá siendo accesible en otros clientes de YouTube.";
-"StickSortComments" = "Pegar cabecera de comentarios";
-"StickSortCommentsDesc" = "Los pines ordenan la cabecera de comentarios (Arriba, Más reciente) para que no desaparezca al desplazarse.";
-"HideSortComments" = "Ocultar cabecera de comentarios";
-"HideSortCommentsDesc" = "Oculta la cabecera de los comentarios de ordenación (Top, Newest) para que nunca aparezca.";
-"PlaylistOldMinibar" = "Lista de reproducción antigua minibar";
-"PlaylistOldMinibarDesc" = "Sustituye el nuevo panel flotante de listas de reproducción por el antiguo.";
-"OldYTUI" = "Interfaz antigua";
-"OldYTUIDesc" = "Falsea la versión de YouTube para que devuelva la interfaz antigua";
-"DisableRTL" = "Desactivar el formato RTL";
-"DisableRTLDesc" = "Muestra forzosamente el texto en formato de izquierda a derecha (LTR) para los idiomas que se muestran inicialmente en formato de derecha a izquierda (RTL).";
+"OledKeyboardDesc" = "Aplica o tema preto oled ao teclado escuro";
+"NoSearchHistory" = "Ocultar histórico de pesquisa";
+"NoSearchHistoryDesc" = "Oculta visualmente o histórico de pesquisa e sugestões. Nota: O histórico de pesquisa permanecerá acessível em outros clientes do YouTube.";
+"StickSortComments" = "Colar cabeçalho de comentários";
+"StickSortCommentsDesc" = "Os pinos ordenam o cabeçalho de comentários (Acima, Mais recente) para que não desapareça ao rolar.";
+"HideSortComments" = "Ocultar cabeçalho de comentários";
+"HideSortCommentsDesc" = "Esconde o cabeçalho dos comentários de ordenação (Top, mais novo) para que nunca apareça.";
+"PlaylistOldMinibar" = "Lista de reprodução antiga minibar";
+"PlaylistOldMinibarDesc" = "Substitua o novo painel flutuante de listas de reprodução pelo antigo.";
+"OldYTUI" = "Interface antiga";
+"OldYTUIDesc" = "Falsifica a versão do YouTube para retornar a interface antiga";
+"DisableRTL" = "Desativar o formato RTL";
+"DisableRTLDesc" = "Exibe necessariamente o texto no formato da esquerda para a direita (LTR) para os idiomas que são exibidos inicialmente no formato da direita para a esquerda (RTL).";
 
 "StartupAnimation" = "Animação de início";
 "StartupAnimationDesc" = "Mostra a animação de carregamento inicial do YouTube";
