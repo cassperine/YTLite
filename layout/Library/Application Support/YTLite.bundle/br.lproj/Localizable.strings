@@ -626,23 +626,23 @@
 "SupportMe" = "Apóyame";
 "Continue" = "Continuar";
 
-"Conflicts.Detected" = "Tweak incompatibles detectados";
-"Conflicts.DetectedDesc" = "A pesar de la aparente estabilidad de la aplicación, el desarrollador de YouTube Plus no recomienda combinar tweaks con funcionalidades similares en la misma aplicación y no puede garantizar un uso seguro.\n\nAl continuar utilizando la aplicación, asumes toda la responsabilidad y aceptas que cualquier queja sobre el rendimiento será ignorada.";
-"Conflicts.SkipThisVersion" = "No mostrar para esta versión";
-"Conflicts.AcceptRisks" = "Acepto todos los riesgos";
-"Conflicts.CloseYT" = "Cerrar YouTube";
+"Conflicts.Detected" = "Tweaks incompatíveis detectados";
+"Conflicts.DetectedDesc" = "Apesar da aparente estabilidade do aplicativo, o desenvolvedor do YouTube Plus não recomenda combinar ajustes com funcionalidades semelhantes no mesmo aplicativo e não pode garantir um uso seguro.\n\nAo continuar utilizando o aplicativo, você assume total responsabilidade e concorda que quaisquer reclamações sobre o desempenho vão ser ignoradas.";
+"Conflicts.SkipThisVersion" = "Não mostrar para está versão";
+"Conflicts.AcceptRisks" = "Aceito todos os riscos";
+"Conflicts.CloseYT" = "Fechar YouTube";
 
-"DonationReminder" = "Tu apoyo ayuda a mejorar YouTube Plus.\n\nPuedes contribuir o elegir desactivar estas notificaciones en los ajustes de YouTube Plus. ¡Gracias💜!";
+"DonationReminder" = "Seu apoio ajuda a melhorar o YouTube Plus.\n\nVocê pode contribuir ou optar por desativar essas notificações nas configurações do YouTube Plus. Obrigado💜!";
 
 /* Old localizations (commented out for reference)
-"TabIsHidden" = "No se puede seleccionar una pestaña oculta como página de inicio";
-"TabIsStartupTab" = "La pestaña seleccionada como página de inicio no puede estar oculta";
-"PreserveSpeed" = "Preservar la velocidad";
-"PreserveSpeedDesc" = "Conserva la velocidad ajustada después de completar el gesto";
+"TabIsHidden" = "Não é possível selecionar uma guia oculta como página inicial";
+"TabIsStartupTab" = "A janela selecionada como página inicial não pode estar oculta";
+"PreserveSpeed" = "Preservar a velocidade";
+"PreserveSpeedDesc" = "Mantém a velocidade ajustada após completar o gesto";
 "sb_poi_highlight" = "Segmento destacado";
 "SegmentDetected" = "%@ detectado";
-"SegmentSkipped" = "%@ ha sido omitido";
-"SkippedToSegment" = "Saltado al %@";
-"SkipSegment" = "Omitir";
+"SegmentSkipped" = "%@ foi oculto";
+"SkippedToSegment" = "Saltar para %@";
+"SkipSegment" = "Ocultar";
 "SkipToSegment" = "Para destacar";
-"SpeedPreserved" = "Velocidad conservada";
+"SpeedPreserved" = "Velocidade preservada";
