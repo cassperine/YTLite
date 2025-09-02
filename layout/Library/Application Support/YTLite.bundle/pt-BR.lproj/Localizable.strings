@@ -7,7 +7,7 @@
 "DownloadManagerDesc" = "Substitua a ação do botão 'Download' sob o player por um Gerenciador de Downloads, que permite baixar Vídeo, Áudio, Imagem em Miniatura e Copiar Informações de Vídeo.";
 "PostManager" = "Salvar informações de postagem";
 "PostManagerDesc" = "Permite copiar o texto de um post e salvá-lo como uma imagem com um toque prolongado.";
-"SaveProfilePhoto" = "Guardar foto de perfil";
+"SaveProfilePhoto" = "Baixar foto de perfil";
 "SaveProfilePhotoDesc" = "Salve a imagem do perfil no aplicativo Fotos com um toque prolongado.";
 "CommentManager" = "Salvar informações de comentários";
 "CommentManagerDesc" = "Permite copiar o texto do comentário e salvá-lo como uma imagem pressionando longamente.";
@@ -19,7 +19,7 @@
 
 "PostDownloadAction" = "Ação posterior ao download";
 "PostDownloadDesc" = "A ação selecionada será executada após a conclusão bem-sucedida do download do vídeo.";
-"SaveToPhotos" = "Guardar no Fotos";
+"SaveToPhotos" = "Baixar no Fotos";
 "Share" = "Compartilhar";
 "Copy" = "Copiar";
 "Ask" = "Perguntar";
@@ -352,46 +352,46 @@
 "DisableRTL" = "Desactivar el formato RTL";
 "DisableRTLDesc" = "Muestra forzosamente el texto en formato de izquierda a derecha (LTR) para los idiomas que se muestran inicialmente en formato de derecha a izquierda (RTL).";
 
-"StartupAnimation" = "Animación de inicio";
-"StartupAnimationDesc" = "Muestra la animación de carga de inicio de YouTube";
+"StartupAnimation" = "Animação de início";
+"StartupAnimationDesc" = "Mostra a animação de carregamento inicial do YouTube";
 
-"InterfaceStyle" = "Estilo de la interfaz";
+"InterfaceStyle" = "Estilo da interface";
 
-"MiniplayerStyle" = "Estilo del mini reproductor";
-"MiniplayerStyleDesc" = "Cambiar al modo flotante o desde él requiere reiniciar la aplicación.";
-"Floating" = "Flotante";
+"MiniplayerStyle" = "Estilo do mini player";
+"MiniplayerStyleDesc" = "Mudar para o modo flutuante requer reiniciar o aplicativo.";
+"Floating" = "Flutuante";
 
-"Other" = "Other";
-"NoShareChunk" = "Eliminar identificador de compartición";
-"NoShareChunkDesc" = "Elimina el parámetro \"si=identificador\" de los enlaces compartidos. Una buena alternativa a la opción \"Hoja de compartir nativa\" mientras YouTube sigue mejorando su menú de compartición.";
-"AutoCheckLinks" = "Auto chequeo de portapapeles";
-"AutoCheckLinksDesc" = "Chequea los enlaces relaccionados con YouTube en el portapapeles cada vez que se abre la app.\nPara un funcionamiento apropiado, ir a Ajustes de iOS → YouTube → Pegar desde otras apps y selecciona \"Permitir\"";
+"Other" = "Outro";
+"NoShareChunk" = "Excluir identificador de compartilhamento";
+"NoShareChunkDesc" = "Exclui o parámetro \"si=identificador\" dos links compartilhados. Uma boa alternativa à opção \"compartilhar nativo\" enquanto o YouTube continua a melhorar seu menu de compartilhamento.";
+"AutoCheckLinks" = "Auto verificação de área de transferência";
+"AutoCheckLinksDesc" = "Verifique os links relacionados ao YouTube na área de transferência sempre que o aplicativo for aberto.\nPara um funcionamento adequado, vá para Configurações do iOS → YouTube → Colar de outros aplicativos e selecione \"Permitir\"";
 
-"ContextMenu" = "Menú contextual";
-"NativeShare" = "Hoja de acciones nativas";
-"NativeShareDesc" = "Utiliza la hoja de uso compartido del sistema para compartir medios.";
-"RemoveCommentGuidelines" = "Eliminar directrices";
-"RemoveCommentGuidelinesDesc" = "Elimina las directrices fijadas de la sección de comentarios.";
-"RemovePlayNext" = "Eliminar \"Reproducir siguiente en cola\"";
-"RemovePlayNextDesc" = "Elimina la opción \"Reproducir siguiente en cola\" del menú.";
-"RemoveDownloadMenu" = "Eliminar \"Descargar\"";
-"RemoveDownloadMenuDesc" = "Elimina la opción \"Descargar\" del menú.";
-"RemoveWatchLaterMenu" = "Eliminar \"Guardar para ver más tarde\"";
-"RemoveWatchLaterMenuDesc" = "Elimina la opción \"Guardar para ver más tarde\" del menú.";
-"RemoveSaveToPlaylistMenu" = "Eliminar \"Guardar en lista de reproducción\"";
-"RemoveSaveToPlaylistMenuDesc" = "Elimina la opción \"Guardar en lista de reproducción\" del menú.";
-"RemoveShareMenu" = "Eliminar \"Compartir\"";
-"RemoveShareMenuDesc" = "Elimina la opción \"Compartir\" del menú.";
-"RemoveNotInterestedMenu" = "Eliminar \"No me interesa\"";
-"RemoveNotInterestedMenuDesc" = "Elimina la opción \"No me interesa\" del menú.";
-"RemoveDontRecommendMenu" = "Eliminar \"No recomendar canal\"";
-"RemoveDontRecommendMenuDesc" = "Elimina la opción \"No recomendar canal\" del menú.";
-"RemoveReportMenu" = "Eliminar \"Reportar\"";
-"RemoveReportMenuDesc" = "Elimina la opción \"Reportar\" del menú.";
-"RemoveRemixMenu" = "Eliminar \"Remix\"";
-"RemoveRemixMenuDesc" = "Elimina la opción \"Remix\" del menú.";
-"RemoveYTMMenu" = "Eliminar \"YouTube Music\"";
-"RemoveYTMMenuDesc" = "Elimina la opción \"Escuchar con YouTube Music\" del menú.";
+"ContextMenu" = "Menu contextual";
+"NativeShare" = "Interface nativa de compartilhamento";
+"NativeShareDesc" = "Use a interface de compartilhamento do sistema para compartilhar mídia.";
+"RemoveCommentGuidelines" = "Excluir diretrizes";
+"RemoveCommentGuidelinesDesc" = "Remova as diretrizes fixadas da seção de comentários.";
+"RemovePlayNext" = "Excluir \"Reproducir siguiente en cola\"";
+"RemovePlayNextDesc" = "Exclui a opção \"Reproducir siguiente en cola\" do menu.";
+"RemoveDownloadMenu" = "Excluir \"Download\"";
+"RemoveDownloadMenuDesc" = "Exclui a opção \"Download\" do menu.";
+"RemoveWatchLaterMenu" = "Excluir \"Assistir mais tarde\"";
+"RemoveWatchLaterMenuDesc" = "Exclui a opção \"Assistir mais tarde\" do menu.";
+"RemoveSaveToPlaylistMenu" = "Excluir \"Salvar na lista de reprodução\"";
+"RemoveSaveToPlaylistMenuDesc" = "Exclui a opção \"Salvar na lista de reprodução\" do menu.";
+"RemoveShareMenu" = "Excluir \"Compartilhar\"";
+"RemoveShareMenuDesc" = "Exclui a opção \"Compartilhar\" do menu.";
+"RemoveNotInterestedMenu" = "Excluir \"Não me interessa\"";
+"RemoveNotInterestedMenuDesc" = "Exclui a opção \"Não me interessa\" do menu.";
+"RemoveDontRecommendMenu" = "Excluir \"Não recomendar canal\"";
+"RemoveDontRecommendMenuDesc" = "Exclui a opção \"Não recomendar canal\" do menu.";
+"RemoveReportMenu" = "Excluir \"Denunciar\"";
+"RemoveReportMenuDesc" = "Exclui a opção \"Denunciar\" do menu.";
+"RemoveRemixMenu" = "Excluir \"Remix\"";
+"RemoveRemixMenuDesc" = "Exclui a opção \"Remix\" do menu.";
+"RemoveYTMMenu" = "Excluir \"YouTube Music\"";
+"RemoveYTMMenuDesc" = "Exclui a opção \"Escutar com YouTube Music\" do menu.";
 
 /* SponsorBlock settings */
 "EnableSponsorBlock" = "Habilitar";
