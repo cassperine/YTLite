@@ -3,7 +3,7 @@
 
 /* Downloading options */
 "Downloading" = "Baixar";
-"DownloadManager" = "Gestor de downloads";
+"DownloadManager" = "Gerenciador de downloads";
 "DownloadManagerDesc" = "Substitua a ação do botão 'Download' sob o player por um Gerenciador de Downloads, que permite baixar Vídeo, Áudio, Imagem em Miniatura e Copiar Informações de Vídeo.";
 "PostManager" = "Salvar informações de postagem";
 "PostManagerDesc" = "Permite copiar o texto de um post e salvá-lo como uma imagem com um toque prolongado.";
@@ -33,22 +33,22 @@
 
 "Audios" = "Áudios";
 "AudioDRC" = "Preferir volume estável";
-"AudioDRCDesc" = "El gestor de descargas dará prioridad al audio con volumen estable (compresión de rango dinámico) si dicho audio está disponible.";
+"AudioDRCDesc" = "O gerenciador de downloads priorizará o áudio com volume estável (compressão de faixa dinâmica) se esse áudio estiver disponível.";
 
-"CaptionsAndThumbnails" = "Títulos y miniaturas";
-"EmbedThumbnailsToVideos" = "Incrustar miniaturas";
-"EmbedThumbnailsToVideosDesc" = "Incrusta la miniatura del vídeo como miniatura de metadatos.";
-"EmbedCapsToVideos" = "Incrustar subtítulos";
-"EmbedCapsToVideosDesc" = "Incrusta los subtítulos seleccionados en los vídeos.";
-"EmbedAutoGenCaps" = "Subtítulos autogenerados/traducidos";
-"EmbedAutoGenCapsDesc" = "Añade subtítulos autogenerados, traducidos y autotraducciones a la lista de subtítulos.";
-"DownloadCaptions" = "Descargar subtítulos";
-"SelectCaption" = "Seleccionar subtítulos";
-"Translated" = "traducido";
-"TranslatedAutoGen" = "autotraducido";
+"CaptionsAndThumbnails" = "Títulos e thumbnails";
+"EmbedThumbnailsToVideos" = "Incorporar thumbnails";
+"EmbedThumbnailsToVideosDesc" = "Incorpora a thumbnail do vídeo como uma miniatura nos metadados.";
+"EmbedCapsToVideos" = "Incorporar legendas";
+"EmbedCapsToVideosDesc" = "Incorpora as legendas selecionadas nos vídeos.";
+"EmbedAutoGenCaps" = "Legendas geradas automaticamente/traduzidas";
+"EmbedAutoGenCapsDesc" = "Adicione legendas geradas automaticamente, traduzidas e auto-traduzidas à lista de legendas.";
+"DownloadCaptions" = "Baixar legendas";
+"SelectCaption" = "Selecionar legendas";
+"Translated" = "traduzido";
+"TranslatedAutoGen" = "auto-traduzido";
 
 /* Nav bar options */
-"Navbar" = "Barra de navegación";
+"Navbar" = "Barra de navegação";
 "RemoveCast" = "Ocultar botón Emitir";
 "RemoveCastDesc" = "Oculta el botón Emitir de la barra de navegación.";
 "RemoveNotifications" = "Ocultar botón de Notificaciones";
