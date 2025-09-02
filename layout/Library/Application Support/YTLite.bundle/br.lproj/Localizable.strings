@@ -4,21 +4,21 @@
 /* Downloading options */
 "Downloading" = "Baixar";
 "DownloadManager" = "Gestor de downloads";
-"DownloadManagerDesc" = "Sustituye la acción del botón 'Descargar' bajo el reproductor por un Gestor de Descargas, que permite descargar Vídeo, Audio, Imagen en Miniatura y Copiar Información de Vídeo.";
-"PostManager" = "Guardar información de post";
-"PostManagerDesc" = "Permite copiar el texto de un post y guardarlo como imagen con un toque prolongado.";
+"DownloadManagerDesc" = "Substitua a ação do botão 'Download' sob o player por um Gerenciador de Downloads, que permite baixar Vídeo, Áudio, Imagem em Miniatura e Copiar Informações de Vídeo.";
+"PostManager" = "Salvar informações de postagem";
+"PostManagerDesc" = "Permite copiar o texto de um post e salvá-lo como uma imagem com um toque prolongado.";
 "SaveProfilePhoto" = "Guardar foto de perfil";
-"SaveProfilePhotoDesc" = "Guarda la imagen de perfil en la aplicación Fotos con un toque prolongado";
-"CommentManager" = "Guardar información de comentarios";
-"CommentManagerDesc" = "Permite copiar el texto del comentario y guardarlo como imagen pulsando prolongadamente.";
+"SaveProfilePhotoDesc" = "Salve a imagem do perfil no aplicativo Fotos com um toque prolongado.";
+"CommentManager" = "Salvar informações de comentários";
+"CommentManagerDesc" = "Permite copiar o texto do comentário e salvá-lo como uma imagem pressionando longamente.";
 
-"YtlButtonPosition" = "Ubicación del botón de descarga";
+"YtlButtonPosition" = "Local do botão de download";
 "UnderPlayer" = "Debaixo do player";
 "Overlay" = "Sobreposição";
 "Both" = "Ambos";
 
 "PostDownloadAction" = "Ação posterior ao download";
-"PostDownloadDesc" = "La acción seleccionada se ejecutará al completar con éxito la descarga del vídeo.";
+"PostDownloadDesc" = "A ação selecionada será executada após a conclusão bem-sucedida do download do vídeo.";
 "SaveToPhotos" = "Guardar no Fotos";
 "Share" = "Compartilhar";
 "Copy" = "Copiar";
