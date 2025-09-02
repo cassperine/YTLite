@@ -49,45 +49,45 @@
 
 /* Nav bar options */
 "Navbar" = "Barra de navegação";
-"RemoveCast" = "Ocultar botón Emitir";
-"RemoveCastDesc" = "Oculta el botón Emitir de la barra de navegación.";
-"RemoveNotifications" = "Ocultar botón de Notificaciones";
-"RemoveNotificationsDesc" = "Oculta el botón de Notificaciones de la barra de navegación.";
-"RemoveSearch" = "Ocultar botón de Búsqueda";
-"RemoveSearchDesc" = "Oculta el botón de Búsqueda de la barra de navegación.";
-"RemoveVoiceSearch" = "Ocultar botón de Búsqueda por voz";
-"RemoveVoiceSearchDesc" = "Oculta el botón de Búsqueda por voz de la barra de navegación.";
-"StickyNavbar" = "Barra de navegación fija";
-"StickyNavbarDesc" = "Mantiene fija la barra de navegación para que permanezca visible al desplazarse hacia abajo.";
+"RemoveCast" = "Ocultar botão de Transmissão";
+"RemoveCastDesc" = "Oculta o botão de Transmissão da Barra de navegação.";
+"RemoveNotifications" = "Ocultar botão de notificações";
+"RemoveNotificationsDesc" = "Oculta o botão de Notificações da Barra de navegação.";
+"RemoveSearch" = "Ocultar botão Pesquisar";
+"RemoveSearchDesc" = "Oculta o botão de Pesquisa na Barra de navegação.";
+"RemoveVoiceSearch" = "Ocultar botão de Busca por voz";
+"RemoveVoiceSearchDesc" = "Oculta o botão de Busca por voz da Barra de navegação.";
+"StickyNavbar" = "Barra de navegação fixa";
+"StickyNavbarDesc" = "Mantém a Barra de navegação fixa para que permaneça visível ao rolar para baixo";
 "NoSubbar" = "Ocultar subbarra";
-"NoSubbarDesc" = "Oculta la subbarra (Todo, Novedades para ti, En directo, etc.) debajo de la barra de navegación.";
-"NoYTLogo" = "Eliminar el logo de YouTube";
-"NoYTLogoDesc" = "Elimina el logo de YouTube de la barra de navegación.";
-"PremiumYTLogo" = "Establece el logotipo Premium de YouTube";
-"PremiumYTLogoDesc" = "Establece el logotipo de YouTube Premium en la barra de navegación.";
+"NoSubbarDesc" = "Oculta a subbarra (Tudo, Novidades para você, Ao vivo, etc.) abaixo da barra de navegação.";
+"NoYTLogo" = "Remover logo do YouTube";
+"NoYTLogoDesc" = "Remove o logo do YouTube da Barra de navegação.";
+"PremiumYTLogo" = "Definir logo do YouTube Premium";
+"PremiumYTLogoDesc" = "Força o logo do YouTube Premium na Barra de navegação.";
 
 /* Feed options */
 "Feed" = "Feed";
-"RemoveAds" = "Eliminar anuncios";
-"RemoveAdsDesc" = "Elimina los anuncios dentro de la aplicación.";
+"RemoveAds" = "Remover anúncios";
+"RemoveAdsDesc" = "Remove os anúncios dentro do aplicativo.";
 "HideShorts" = "Ocultar vídeos Shorts";
-"HideShortsDesc" = "Oculta los vídeos Shorts de la página de inicio, Recomendados, etc. (No se aplica al historial de reproducciones).";
-"KeepSubsShorts" = "Mantener Shorts en suscripciones";
-"KeepSubsShortsDesc" = "Evita eliminar los Shorts de la pestaña Suscripciones.";
-"RemoveCommunityPosts" = "Eliminar publicaciones de la comunidad";
-"RemoveCommunityPostsDesc" = "Elimina las publicaciones de la comunidad del feed.";
-"RemoveMixPlaylists" = "Eliminar mezclas";
-"RemoveMixPlaylistsDesc" = "Elimina las listas de reproducción de mezclas generadas por YouTube del feed.";
-"RemoveLiveVids" = "Eliminar transmisiones en vivo";
-"RemoveLiveVidsDesc" = "Elimina las transmisiones en vivo de la pestaña de inicio.";
-"RemoveHorizontalFeeds" = "Eliminar feeds horizontales";
-"RemoveHorizontalFeedsDesc" = "Elimina todos los feeds horizontales (Noticias, Continuar viendo, Colección de publicaciones, etc.) de la pestaña de inicio.";
-"RemoveMoreTopics" = "Eliminar \"Más temas\"";
-"RemoveMoreTopicsDesc" = "Elimina \"Más temas\" del feed.";
-"RemovePlayables" = "Quitar reproducibles";
-"RemovePlayablesDesc" = "Elimina reproducibles (minijuegos) del feed.";
-"FixAlbums" = "Corregir portadas";
-"FixAlbumsDesc" = "Corrige la visualización de portadas para usuarios de Rusia.";
+"HideShortsDesc" = "Ocultar vídeos Shorts da página inicial, Recomendados, etc. (Não se aplica ao histórico de reprodução).";
+"KeepSubsShorts" = "Manter Shorts nas Inscrições";
+"KeepSubsShortsDesc" = "Evita ocultar os Shorts na janela de Inscrições.";
+"RemoveCommunityPosts" = "Remover posts da comunidade";
+"RemoveCommunityPostsDesc" = "Remove os posts da comunidade do feed.";
+"RemoveMixPlaylists" = "Remover mixes";
+"RemoveMixPlaylistsDesc" = "Remove a playlist de mix gerada pelo YouTube no feed.";
+"RemoveLiveVids" = "Remover vídeos Ao Vivo";
+"RemoveLiveVidsDesc" = "Remove as transmissões Ao Vivo na página de Início.";
+"RemoveHorizontalFeeds" = "Remover feeds horizontais";
+"RemoveHorizontalFeedsDesc" = "Remove todos os feeds horizontais (Notícias, Continuar assistindo, Coleção de postagens, etc.) na página de Início.";
+"RemoveMoreTopics" = "Remover \"Mais temas\"";
+"RemoveMoreTopicsDesc" = "Remove \"Mais temas\" do feed.";
+"RemovePlayables" = "Remover reprodutíveis";
+"RemovePlayablesDesc" = "Remova reprodutíveis (minijogos) do feed.";
+"FixAlbums" = "Corrigir capas";
+"FixAlbumsDesc" = "Corrige a exibição de capa para usuários da Rússia.";
 
 /* Player options */
 "Player" = "Reproductor";
@@ -310,28 +310,28 @@
 "HideShortsAudioDesc" = "Elimina la línea que indica el audio usado en los Shorts.";
 
 /* Tab bar options */
-"Tabbar" = "Barra de pestañas";
-"Startup" = "Página de inicio";
-"FEwhat_to_watch" = "Inicio";
+"Tabbar" = "Tab bar";
+"Startup" = "Página de início";
+"FEwhat_to_watch" = "Início";
 "FEexplore" = "Explorar";
 "FEshorts" = "Shorts";
-"FEsubscriptions" = "Suscripciones";
+"FEsubscriptions" = "Inscrições";
 "FElibrary" = "Biblioteca";
-"FEuploads" = "Crear";
-"FEhistory" = "Historial";
+"FEuploads" = "Criar";
+"FEhistory" = "Histórico";
 "FEpost_home" = "Posts";
-"VLWL" = "Ver más tarde";
+"VLWL" = "Assistir mais tarde";
 
-"TranslucentBar" = "Barra de pestañas translúcida";
-"RemoveLabels" = "Eliminar etiquetas";
-"RemoveIndicators" = "Eliminar indicadores";
+"TranslucentBar" = "Tab bar translúcida";
+"RemoveLabels" = "Remover a etiquetas dos nomes";
+"RemoveIndicators" = "Remover indicadores de página";
 
-"ActiveTabs" = "Pestañas activas";
-"InactiveTabs" = "Pestañas inactivas";
-"HideLibraryFooter" = "La pestaña de la biblioteca se puede ocultar o mostrar manteniendo presionada la primera pestaña de la barra de pestañas.";
-"Warning" = "Advertencia";
-"AtLeastOneTab" = "Al menos una pestaña debe permanecer activa";
-"TabsCountRestricted" = "Solo puedes tener hasta seis pestañas activas";
+"ActiveTabs" = "Janelas ativas";
+"InactiveTabs" = "Janelas inativas";
+"HideLibraryFooter" = "A janela da biblioteca pode ser ocultada ou exibida mantendo pressionada a primeira guia da tab bar";
+"Warning" = "Advertência";
+"AtLeastOneTab" = "Ao menos uma janela deve permanecer ativa";
+"TabsCountRestricted" = "Você só pode ter até seis janelas ativas";
 
 /* Interface options */
 "Interface" = "Interfaz";
